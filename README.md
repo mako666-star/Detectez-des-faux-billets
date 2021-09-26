@@ -1,1 +1,1 @@
-# Détectez des faux billets
+# Détectez des faux billets - Projet OpenClassroom
